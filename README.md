@@ -1,4 +1,4 @@
-AnnouncementBoard
+Announcement Board
 =================
 
 A quick implementation for my church's announcement board
